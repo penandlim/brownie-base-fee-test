@@ -1,0 +1,16 @@
+**/__pycache__
+.venv
+build
+reports
+contracts
+interfaces
+tests
+*.local
+**/.DS_Store
+.env
+.hypothesis
+.vscode/
+.envrc
+.python-version
+
+node_modules/
